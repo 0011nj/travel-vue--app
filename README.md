@@ -22,8 +22,6 @@
 4. 了解了一个项目完整的开发流程
 
 ## Build Setup
-...
-$ gulp --watch
 
+$ gulp --watch
 $ http://localhost:3000/
-...
