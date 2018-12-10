@@ -7,8 +7,6 @@
 本项目主要功能模块：期号自动更新、倒计时、开售状态、玩法切换、自主选号、随机选号、金额计算、奖金预测等。
 
 ## 技术栈
-
-- **Sass(Scss)**: 预编译 CSS，方便快捷
 - **ES6**: 这是以后的趋势，let、const、class、箭头函数、Set Map 数据结构、Promise 等新特性十分实用
 - **Gulp**: 编写 gulp 脚本完成ES6的自动编译、打包、文件监听、浏览器热更新、模板自动更新、服务热启动等
 - **Babel**: gulp 的一个插件，实现了 ES6 转 ES5
@@ -24,9 +22,8 @@
 4. 了解了一个项目完整的开发流程
 
 ## Build Setup
-
-# run gulp
+...
 $ gulp --watch
 
-# visit
 $ http://localhost:3000/
+...
